@@ -1,1 +1,2 @@
-This is my First github class.
+This is my First class.
+It was about Github.
